@@ -1,4 +1,4 @@
-Shader "Custom/P9_NormalMap"
+Shader "Custom/P8_NormalMap"
 {
     Properties
     {

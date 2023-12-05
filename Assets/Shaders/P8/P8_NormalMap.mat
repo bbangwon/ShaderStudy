@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: P9_NormalMap
+  m_Name: P8_NormalMap
   m_Shader: {fileID: 4800000, guid: 819de8f5439a6bc4abeef8e6cc6269dd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
